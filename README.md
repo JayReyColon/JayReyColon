@@ -9,8 +9,8 @@
   - <a href="https://github.com/JayReyColon/Implementing-Active-Directory-in-Azure"> Implementing Active Directory in Azure </a>
   - <a href="https://github.com/JayReyColon/Exploring-Azure-and-Networking-Concepts"> Exploring Azure and Networking Concepts </a>
 
-<h2>🤳Connect with me:</h2>
+<h2>📲Connect with me:</h2>
 
-[<img align="left" alt="Jayden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jayden | LinkedIn" width="100px" src="https://i.imgur.com/0mMy4C5.png" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/jayden-colon-68a3a626b
