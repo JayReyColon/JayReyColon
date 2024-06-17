@@ -3,12 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - 
-  -
-  -
+  - <a href="https://github.com/JayReyColon/osticket-prereqs"> Installing osTicket on a Virtual Machine </a>
+
 - <b>Microsoft Azure</b>
-  - 
-  - 
+  - <a href="https://github.com/JayReyColon/Implementing-Active-Directory-in-Azure"> Implementing Active Directory in Azure </a>
+  
 
 <h2>🤳Connect with me:</h2>
 
