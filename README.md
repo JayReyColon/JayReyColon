@@ -7,7 +7,7 @@
 
 - <b>Microsoft Azure</b>
   - <a href="https://github.com/JayReyColon/Implementing-Active-Directory-in-Azure"> Implementing Active Directory in Azure </a>
-  
+  - <a href="https://github.com/JayReyColon/Exploring-Azure-and-Networking-Concepts"> Exploring Azure and Networking Concepts </a>
 
 <h2>🤳Connect with me:</h2>
 
